@@ -60,5 +60,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   phoneNo: "+1 (816)-812-3274 ",
-  email: "bthannir@charlotte.edu",
+  email: "thanniru.bhanusaisree@gmail.com",
 };
